@@ -101,8 +101,11 @@
     <SystemCommandLineRenderingVersion>2.0.0-beta1.20074.1</SystemCommandLineRenderingVersion>
     <SystemCommandLineVersion>2.0.0-beta1.21216.1</SystemCommandLineVersion>
     <SystemComponentModelCompositionVersion>4.7.0</SystemComponentModelCompositionVersion>
-    <SystemCompositionVersion>8.0.0-preview.4.23259.5</SystemCompositionVersion>
+    <SystemCompositionVersion>10.0.0-preview.3.25161.120</SystemCompositionVersion>
     <XunitCombinatorialVersion>1.2.7</XunitCombinatorialVersion>
     <SystemMemoryVersion>4.5.5</SystemMemoryVersion>
+    <MicrosoftCodeAnalysisPackageVersion>4.14.0-3.25161.120</MicrosoftCodeAnalysisPackageVersion>
+    <MicrosoftDotNetXliffTasksPackageVersion>10.0.0-beta.25161.120</MicrosoftDotNetXliffTasksPackageVersion>
+    <MicrosoftNetCompilersToolsetPackageVersion>4.14.0-3.25161.120</MicrosoftNetCompilersToolsetPackageVersion>
   </PropertyGroup>
 </Project>
